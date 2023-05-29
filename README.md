@@ -39,6 +39,11 @@ Além disso, foi desenvolvido um pequeno programa com a utilização do algoritm
 
 ![image](https://github.com/projeto-de-algoritmos/Greed_Problems/assets/72623771/b74998c0-917e-4698-aed5-cc4056554d69)
 
+### Exercício 1 - [Guerra](https://www.beecrowd.com.br/judge/pt/problems/view/2095)
+[Código](https://github.com/projeto-de-algoritmos/Greed_Problems/blob/aae7174e2bcacac0f68bb76b880492a62d7fb8a7/Guerra/Guerra.py)
+
+![image](https://github.com/projeto-de-algoritmos/Greed_Problems/assets/72623771/4f5701c6-77cc-43c6-a89e-6a27f34950fb)
+
 ## Vídeo 
 [Grafos 2](TESTE)
 
