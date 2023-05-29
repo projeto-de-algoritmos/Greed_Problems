@@ -7,7 +7,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 19/0128712  |  Letícia Assunção Aires Moreira |
-| 20/0024868  |  Mateus Vinívius Ferreira Franco |
+| 20/0024868  |  Mateus Vinícius Ferreira Franco |
 
 ## Sobre 
 O presente projeto foi desenvolvido durante a disciplina de Projeto de Algoritmos do curso de Engenharia de Software da Universidade de Brasília com o intuito de aplicar conhecimentos adquiridos no módulo Algoritmos Ambiciosos.
