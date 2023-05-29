@@ -20,10 +20,11 @@ Nesse sentido, decidimos apresentar a resolução de 4 exercícios do Beecrowd q
 * Algoritmo do Trocador e do Caminhoneiro
 * Código de Huffman
 
-## Exercício 1 - [Saco do Papai Noel](https://www.beecrowd.com.br/judge/pt/problems/view/NUMERO)
-[Código](https://github.com/projeto-de-algoritmos/Grafos2_AntSimulator/blob/1173ef45b36aefb85104c0df420505e2cf5de3e5/Ir%20e%20Vir/Ir%20e%20Vir.c)
+## Exercício 1 - [Saco do Papai Noel](https://www.beecrowd.com.br/judge/pt/problems/view/1767)
+[Código](https://github.com/projeto-de-algoritmos/Greed_Problems/blob/a798ef2c718563796be6baa0f00cd8717a08e2e7/Saco%20do%20Papai%20Noel/C%C3%B3digo.cpp)
 
-![image](https://github.com/projeto-de-algoritmos/Grafos2_AntSimulator/assets/72623771/405f0fc8-fda6-4f27-9248-8686cd2c73e7)
+![image](https://github.com/projeto-de-algoritmos/Greed_Problems/assets/72623771/b74998c0-917e-4698-aed5-cc4056554d69)
+
 ## Vídeo 
 [Grafos 2](TESTE)
 
