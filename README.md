@@ -45,7 +45,8 @@ Além disso, foi desenvolvido um pequeno programa com a utilização do algoritm
 ![image](https://github.com/projeto-de-algoritmos/Greed_Problems/assets/72623771/4f5701c6-77cc-43c6-a89e-6a27f34950fb)
 
 ## Vídeo 
-[Grafos 2](TESTE)
+[Algoritmos Ambiciosos 1](https://youtu.be/asMdxe7SliM)
+[Algoritmos Ambiciosos 2](https://youtu.be/b2EqW42LVX4)
 
 
 
